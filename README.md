@@ -64,6 +64,8 @@ The model's errors are not random and reveal structured weaknesses:
 - Certain education levels show higher error rates
 - Suggests model struggles with specific feature distributions
 
+![Performance vs Noise](results/performance_vs_noise.png)
+
 ---
 
 ## Key Insights
