@@ -1,5 +1,6 @@
 # AI Reliability Under Data Noise: A Real-World Evaluation Study
 
+> This project demonstrates how machine learning systems degrade under real-world data imperfections, with a focus on reliability, robustness, and error behavior.
 ## Overview
 
 Modern AI systems are widely deployed in real-world decision-making tasks such as hiring, finance, and risk assessment. However, these systems often operate under imperfect conditions, including noisy or inconsistent data.
