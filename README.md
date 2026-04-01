@@ -1,5 +1,3 @@
-# ai-reliability-study
-
 # AI Reliability Under Data Noise: A Real-World Evaluation Study
 
 ## Overview
